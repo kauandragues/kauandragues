@@ -24,8 +24,9 @@ Fazendo **Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP Campina
 
 ---
 
-### 📊 Estatísticas e Linguagens
-![Metrics](https://metrics.lecoq.io/kauandragues?base=header,repositories,languages&base.languages.expand=true&theme=dark)
+### 📊 Estatísticas
+![Status do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=kauandragues&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauandragues&layout=compact&theme=radical)
 
 ---
 
