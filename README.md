@@ -1,6 +1,6 @@
 # Olá, eu sou o Kauã! 👋
 
-### 🎓 Formação & Perfil Técnico
+### Perfil
 Fazendo **Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP Campinas** e com formação de **Técnico em Informática pelo IFSP**. Minha base acadêmica e técnica é voltada para a resolução de problemas lógicos e construção de sistemas robustos.
 
 - 🖥️ Gosto bastante de Desenvolvimento **Back-End**, mas curioso sobre tudo.
