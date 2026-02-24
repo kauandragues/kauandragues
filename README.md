@@ -1,4 +1,4 @@
-# Olá, eu sou o [Kauã]! 👋
+# Olá, eu sou o Kauã! 👋
 
 ### 🎓 Formação & Perfil Técnico
 Fazendo **Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP Campinas** e com formação de **Técnico em Informática pelo IFSP**. Minha base acadêmica e técnica é voltada para a resolução de problemas lógicos e construção de sistemas robustos.
@@ -23,13 +23,13 @@ Fazendo **Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP Campina
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-### 📊 Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=kauandragues&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauandragues&layout=compact&theme=radical)
+
+### 📊 Estatísticas e Linguagens
+![Metrics](https://metrics.lecoq.io/kauandragues?base=header,repositories,languages&base.languages.expand=true&theme=dark)
 
 ---
 
-### 📈 O que tenho feito no GitHub
+### 📈 Sequência de Contribuições
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauandragues&theme=dark" alt="Streak do GitHub" />
 </p>
@@ -39,3 +39,4 @@ Fazendo **Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP Campina
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauandragues/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaua.rodrigues1509@gmail.com)
+
